@@ -1,0 +1,26 @@
+
+h1{
+	color:#8A0868;
+	font-size:70pt;
+	text-align:center;
+	font-style:oblique;
+	font-family:Chiller;
+	
+}
+h2{
+	color:#B40431;
+	font-size:40pt;
+	text-align:center;
+	font-style:oblique;
+	font-family:Chiller;
+	
+}
+
+p{	text-align:center;
+	font-family:Monotype Corsiva;
+	font-size:20pt;
+	color: white
+}
+body{
+	background-color:#585858;
+}
